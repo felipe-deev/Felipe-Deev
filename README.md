@@ -4,7 +4,17 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolv
 
 ---
 
+## 🌱 No momento
+
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🤖 Evoluindo o **JARBIS**, meu assistente de voz com IA local
+- 💼 Aberto a oportunidades de **estágio** e **projetos** em desenvolvimento web e IA
+
+---
+
 ## 🚀 Projetos em destaque
+
+> 🔒 Os repositórios destes projetos são privados. Posso apresentar o código e uma demonstração mediante solicitação.
 
 ### 🤖 JARBIS — Assistente de voz com IA
 Assistente virtual para desktop, controlado por voz, inspirado no Jarvis.
@@ -38,4 +48,4 @@ Plataforma web para agendamento de serviços, com interface amigável e responsi
 
 ## 📫 Contato
 
-✉️ [felipe.borges.deev@gmail.com](mailto:felipe.borges.deev@gmail.com)
+✉️ felipe.borges.deev@gmail.com
